@@ -1,26 +1,33 @@
 html,body{
-    width: 100%;
-    height: 100px;
+    widows: 100%;
+    height:auto;
 }
+
 div{
     margin: 0;
-    border: 0;
+    border:0;
 }
-h1{
-    color: #ff0000;
-}
-h1,h3,table{
+
+h1,h3{
     text-align: center;
+    color: red;
 }
+h3{
+    color:aqua;
+}
+
 table{
     margin-right: auto;
     margin-left: auto;
 }
-p{
-    text-align: center;
-    color: #00c3ff;
+
+.product{
+    position: relative;
+    left: 30%;
 }
-img{
-    width:100%;
-    height: auto;
+.intro{
+    color:royalblue;
+}
+.price{
+    color:red;
 }
