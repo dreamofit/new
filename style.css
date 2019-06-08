@@ -13,7 +13,7 @@ h1,h3{
     color: red;
 }
 h3{
-    color:aqua;
+    color:blue;
 }
 
 table{
@@ -24,6 +24,7 @@ table{
 .product{
     position: relative;
     left: 30%;
+    top:10px;
 }
 .intro{
     color:royalblue;
